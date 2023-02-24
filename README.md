@@ -1,1 +1,1 @@
-# Getwifipasswordtosaveyourprofile
+# we can run this cmd
